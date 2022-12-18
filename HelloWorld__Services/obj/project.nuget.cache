@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "jIDwiFCqBt1sNRHSZEHwQiC/GvQiWj/j+nAAIZG5lNGf5dzhVFYLOooxGCNGMATM8eDLYMtFwlK5GNo81hghgw==",
+  "success": true,
+  "projectFilePath": "C:\\Manipal__LearningCenter__(2022)\\Siri__C#__Learning\\HelloWorld__Services\\HelloWorld__Services\\HelloWorld__Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manip\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\manip\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\manip\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\manip\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\manip\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\manip\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
